@@ -1,1 +1,2 @@
-# This is a language translator app which is used to translate from one language to another using the IBM Watson API
+This is AI which helps to translate from one language to another and also provide an audio file of the translation to the user.
+It makes use of the IBMWatson API.
